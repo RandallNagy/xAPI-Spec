@@ -113,24 +113,24 @@ The xAPI is an effort of the Advanced Distributed Learning (ADL) Initiative.  AD
 standardize and modernize training and education management and delivery in the US. Since that time, there has been a 
 growing realization of the need to track learning experiences of individuals beyond formal, structured computer-based training. 
 In assessing candidates' suitability for positions or their capability for performing various tasks, there is a need 
-to consider a wide range of formal and informal learning experiences, both on and offline.  That information, 
-more often than not is scattered across a wide variety of sources.
+to consider a wide range of formal and informal learning experiences, both on and offline.  That information - 
+more often than not - is scattered across a wide variety of sources.
 
-Out of this perceived need, the xAPI community and specification were born. xAPI assumes that:
+Out of the need to better understand any learner's educational experiences the xAPI community and specification were born. xAPI assumes that:
   * There is a need to be able to analyze information about learning experiences and their outcomes distributed across 
   a wide variety of sources, platforms and technologies.
-  * Developing a commonly-accepted framework for gathering, storing and exchanging this information represents the 
-  best way of achieving this.
+  * Developing a commonly-accepted framework for gathering, storing and exchanging this information represents a 
+  better way of understand a learner's educational experiences.
 
 The goals of the xAPI are:
 
-* To make it easier to understand and compare learning experiences and their outcomes recorded across a wide 
+* To make it easier to *understand and compare* learning experiences and their outcomes recorded across a wide 
 variety of contexts, platforms and technologies.
-* To maximize interoperability of services which create, gather, store and process information about learning experiences.
-* To provide a guide to those who want to build applications that conform to and implement this specification.
-* To provide criteria against which conformance to this specification can be tested.
+* To maximize *interoperability of services* which create, gather, store and process information about learning experiences.
+* To **provide a guide* to those who want to build applications that conform to and implement this specification.
+* To provide criteria against which *conformance* to the xAPI specification can be tested.
 
-The document that follows sets out the xAPI specification which is designed to achieve these goals. 
+The remainder of this document details the xAPI specification designed to achieve the above goals. 
 
 ## 2.0 How to Use This Document
 
